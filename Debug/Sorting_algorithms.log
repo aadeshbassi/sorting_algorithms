@@ -1,0 +1,7 @@
+﻿  Sorting_algorithms.cpp
+D:\Workspace\projects\My_project\Sorting_algorithms\Sorting_algorithms.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+D:\Workspace\projects\My_project\Sorting_algorithms\Sorting_algorithms.cpp(21,21): warning C4018: '<': signed/unsigned mismatch
+D:\Workspace\projects\My_project\Sorting_algorithms\Sorting_algorithms.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+D:\Workspace\projects\My_project\Sorting_algorithms\Sorting_algorithms.cpp(38,23): warning C4018: '<': signed/unsigned mismatch
+D:\Workspace\projects\My_project\Sorting_algorithms\Sorting_algorithms.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+  Sorting_algorithms.vcxproj -> D:\Workspace\projects\My_project\Sorting_algorithms\Debug\Sorting_algorithms.exe

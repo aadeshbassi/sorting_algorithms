@@ -1,0 +1,2 @@
+D:\Workspace\projects\My_project\Sorting_algorithms\Debug\Sorting_algorithms.exe
+D:\Workspace\projects\My_project\Sorting_algorithms\Debug\Sorting_algorithms.pdb
